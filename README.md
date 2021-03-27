@@ -18,7 +18,7 @@
   
   <br>
   
-  [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=julianoomartins&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+  [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=julianoomartins&hide=prs&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -26,7 +26,6 @@
 
 <p align="center">
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianoomartins&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  Html, CSS, Javascript, Php, Java, Vue.js, Laravel, Jquery...
 
 ---
