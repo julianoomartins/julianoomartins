@@ -15,8 +15,6 @@
  &nbsp;
  
  ---
-
- <p align="center">
   
  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Medal.gif" width="30px">Coisas para saber sobre a minha pessoinha!
  
@@ -29,8 +27,6 @@
    <a href="https://github.com/julianoomartins">
   <img width="425px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianoomartins&layout=compact" />
 </a>
-
-</p>
 
   &nbsp;
 
