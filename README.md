@@ -21,10 +21,9 @@
 <img align="right" width="25%"  style=" margin-right: 50px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />  &nbsp; 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianoomartins&theme=radical)
 
-
 ---
 
-### - As paixões...
+### - E tudo isto eu ja me envolvi...
 
 <p align="center">
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
@@ -36,22 +35,16 @@
   
   &nbsp; 
   
-
-
-
 ---
 
 </p>
-<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 10px;" width="300px" />
+
 ### - No momento eu estou... 
 
 - Melhorando minhas habilidades no PHP. 
 - Estudando Sistemas de Informação.
 - Trabalhando com o Power BI.
 - Adicionando a skill de banco de dados.
-
-
-
 
 ---
 
