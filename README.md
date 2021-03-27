@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
+  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="25%">
   <br><br>
   <samp>
     E aí? Me chamo Juliano Martins :wave:
@@ -14,7 +14,7 @@
 
 <br>
 
- <b> Coisas para saber sobre a minha pessoinha! </b> <i>(clique para abrir!)</i> 
+ <b> Coisas para saber sobre a minha pessoinha! </b>
   
   <br>
   
@@ -27,6 +27,8 @@
 <p align="center">
 
  Html, CSS, Javascript, Php, Java, Vue.js, Laravel, Jquery...
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
