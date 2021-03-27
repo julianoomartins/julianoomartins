@@ -18,11 +18,6 @@
  <img src="https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" width="30px">Coisas para saber sobre a minha pessoinha! 
   
   <img align="left" width="500px" src="https://github-readme-stats.vercel.app/api?username=julianoomartins&theme=default&hide=prs&show_icons=true)" /> 
-
- &nbsp;
- 
-  <a href="https://github.com/julianoomartins">
-  <img  width="320px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianoomartins&layout=compact" />
   
    &nbsp;  &nbsp;   &nbsp; 
 
@@ -43,9 +38,7 @@
  > Logo outras coisas serão atualizadas aqui :grin:
   
    &nbsp; 
-   
-   <a href="https://github.com/julianoomartins">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianoomartins&layout=compact" />
+
 </a>
   
  </p>
