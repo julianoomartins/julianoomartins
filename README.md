@@ -20,12 +20,12 @@
  
   <br>
  <a href="https://github.com/julianoomartins">
-  <img align="left" width="450px" src="https://github-readme-stats.vercel.app/api?username=julianoomartins&theme=default&hide=prs&show_icons=true)" /> 
+  <img align="left" width="410px" src="https://github-readme-stats.vercel.app/api?username=julianoomartins&theme=default&hide=prs&show_icons=true)" /> 
   </a>
 
    
    <a href="https://github.com/julianoomartins">
-  <img width="385px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianoomartins&layout=compact" />
+  <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianoomartins&layout=compact" />
 </a>
 
   &nbsp;
