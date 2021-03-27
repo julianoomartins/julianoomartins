@@ -33,8 +33,8 @@
  
 ---
 
-. &nbsp; 
-<img align="right" width="25%" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />  &nbsp; 
+
+<img align="right" width="25%"  style="float: left; margin-right: 10px;" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />  &nbsp; 
 
 </p>
 
