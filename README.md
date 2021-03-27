@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="25%">
+  <img src="https://raw.githubusercontent.com/Quadrified/Quadrified/master/assets/wave.gif" width="30px">
   <br><br>
   <samp>
     E aí? Me chamo Juliano Martins :wave:
