@@ -52,9 +52,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/julianoomartins"><img src="" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
   <a href="https://instagram.com/julianoomartins"><img src="" width="30px" alt="Instagram"></a> &nbsp; &nbsp;
-  <a href="https://api.whatsapp.com/send?phone=+5547999584342"><img src="" width="30px" alt="Whatsapp"></a> &nbsp; &nbsp; 
+  <a href="https://www.facebook.com/julianocesarmartins"><img src="" width="30px" alt="Facebook"></a> &nbsp; &nbsp; 
 </p>
-
 
 <br>
 
