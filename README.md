@@ -33,17 +33,16 @@
  </p>
  
   &nbsp;   &nbsp;   &nbsp;   
----
+
 
  
 
-#### - E tudo isto eu já me envolvi... 
+#### - Atualmente eu estou... 
+
 - Melhorando minhas habilidades no PHP. 
 - Estudando Sistemas de Informação.
 - Trabalhando com o Power BI.
 - Adicionando a skill de banco de dados.
-
-
 
   &nbsp;   &nbsp;   &nbsp; 
   
