@@ -12,14 +12,21 @@
   </samp>
 </p>
 
+ &nbsp;  &nbsp; 
+ 
  ---
  <img src="https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" width="30px">Coisas para saber sobre a minha pessoinha! </b> 
  
+  &nbsp; 
+  
   <img align="left" width="500px" src="https://github-readme-stats.vercel.app/api?username=julianoomartins&theme=default&hide=prs&show_icons=true)" /> 
-
 
  &nbsp;  &nbsp; 
  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianoomartins&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+### - E tudo isto eu já me envolvi... 
+
 <p align="center">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
@@ -28,14 +35,6 @@
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
   
  </p>
-
- &nbsp;  &nbsp; 
-
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianoomartins&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-### - E tudo isto eu já me envolvi... 
-
 
  
   &nbsp; 
