@@ -19,11 +19,13 @@
   
   <img align="left" width="450px" src="https://github-readme-stats.vercel.app/api?username=julianoomartins&theme=default&hide=prs&show_icons=true)" /> 
   
-   &nbsp;  &nbsp;   &nbsp; 
+   &nbsp;  &nbsp;
    
    <a href="https://github.com/julianoomartins">
   <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianoomartins&layout=compact" />
 </a>
+
+  &nbsp;   &nbsp;   &nbsp;   &nbsp;
 
 #### - E tudo aqui eu já me envolvi... 
 
