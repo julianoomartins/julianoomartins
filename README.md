@@ -57,8 +57,6 @@
   
  </p>
  
-  &nbsp;    
-  
    ---
 
 #### Atualmente eu estou... 
