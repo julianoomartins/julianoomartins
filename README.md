@@ -22,11 +22,11 @@
  &nbsp;
  
   <a href="https://github.com/julianoomartins">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianoomartins&layout=compact" />
+  <img  width="320px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianoomartins&layout=compact" />
   
    &nbsp;  &nbsp;   &nbsp; 
 
-#### - E tudo isto eu já me envolvi... 
+#### - E tudo aqui eu já me envolvi... 
 
 <p align="center">
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
@@ -40,7 +40,7 @@
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/-Microsoft%20Excel-026f39?style=flat&logo=microsoft%20excel">
   
- >> Logo outras coisas serão atualizadas aqui :grin:
+ > Logo outras coisas serão atualizadas aqui :grin:
   
    &nbsp; 
    
