@@ -23,8 +23,8 @@
 ### - Tudo o que eu ja vi, estou vendo e estarei vendo:
 
 <p align="center">
-
- Html, CSS, Javascript, Php, Java, Vue.js, Laravel, Jquery...
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" width="30px"
+ 
  
 ---
 
