@@ -14,8 +14,7 @@
 
 <br>
 
-<details>
-  <summary> <b> Coisas para saber sobre a minha pessoinha! </b> <i>(clique para abrir!)</i> </summary>
+ <b> Coisas para saber sobre a minha pessoinha! </b> <i>(clique para abrir!)</i> 
   
   <br>
   
