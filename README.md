@@ -55,10 +55,9 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/julianoomartins/"><img src="https://github.com/Quadrified/Quadrified/raw/master/assets/social_media_svgs/linkedin-round.svg" width="30px" alt="Instagram"></a> &nbsp; &nbsp;
-  <a href="https://www.instagram.com/julianoomartins/"><img src="https://github.com/Quadrified/Quadrified/raw/master/assets/social_media_svgs/instagram-round.svg" width="30px" alt="Facebook"></a> &nbsp;
-</p>
+  <a href="https://www.instagram.com/julianoomartins/"><img src="https://github.com/Quadrified/Quadrified/raw/master/assets/social_media_svgs/instagram-round.svg" width="30px" alt="Facebook"></a> 
 
-<br>
+</p>
 
 <p align="center">
   Feito com  :blue_heart: &nbsp;usando GitHub Markdown &nbsp;:arrow_down:
