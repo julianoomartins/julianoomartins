@@ -48,7 +48,7 @@
 </p>
 
 <p align="center">
-  <a href="https://instagram.com/julianoomartins"><img src="" width="30px" alt="Instagram"></a> &nbsp; &nbsp;
+  <a href="https://instagram.com/julianoomartins"><img src="https://github.com/Quadrified/Quadrified/raw/master/assets/social_media_svgs/linkedin-round.svg" width="30px" alt="Instagram"></a> &nbsp; &nbsp;
   <a href="https://www.facebook.com/julianocesarmartins"><img src="" width="30px" alt="Facebook"></a> &nbsp; &nbsp; 
 </p>
 
