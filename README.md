@@ -28,8 +28,6 @@
   <img align="center" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianoomartins&layout=compact" />
 </a>
 
-  &nbsp;
-  
   <br>
 
 #### E tudo aqui eu já me envolvi...👨🏽‍💻 
