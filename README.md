@@ -41,7 +41,7 @@
 
 
 ### - No momento eu estou... 
-
+<img align="right" width="25%" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> &nbsp; 
 - Melhorando minhas habilidades no PHP. 
 - Estudando Sistemas de Informação.
 - Trabalhando com o Power BI.
