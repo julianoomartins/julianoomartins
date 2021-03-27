@@ -52,7 +52,7 @@
 </details>
 
 <p align="center"> 
-   Vamos nos conectar e bater um papo! <img src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Handshake.gif" width="30px"> 
+   Vamos nos conectar e bater um papo! 
 </p>
 
 <p align="center">
