@@ -29,16 +29,18 @@
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
- 
+  
+  &nbsp; 
+  
 ### - Tudo que já vi aqui no Github:
 
 <img align="right" width="25%"  style=" margin-right: 50px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />  &nbsp; 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianoomartins&theme=radical)<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 10px;" width="300px" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianoomartins&theme=radical)
 
 ---
 
 </p>
-
+<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 10px;" width="300px" />
 ### - No momento eu estou... 
 
 - Melhorando minhas habilidades no PHP. 
