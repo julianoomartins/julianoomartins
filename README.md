@@ -60,8 +60,3 @@
 <p align="center">
   Feito com  :blue_heart: &nbsp;usando GitHub Markdown &nbsp;:arrow_down:
 </p>
-Viewport
-Window
-×
-×
-×
