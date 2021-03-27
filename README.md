@@ -20,15 +20,16 @@
  
   <br>
  <a href="https://github.com/julianoomartins">
-  <img align="left" width="410px" src="https://github-readme-stats.vercel.app/api?username=julianoomartins&theme=default&hide=prs&show_icons=true)" /> 
+  <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=julianoomartins&theme=default&hide=prs&show_icons=true)" /> 
   </a>
   
    
    <a href="https://github.com/julianoomartins">
-  <img align="center" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianoomartins&layout=compact" />
+  <img align="right" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianoomartins&layout=compact" />
 </a>
 
-  <br>
+
+  <br><br><br><br><br><br>
 
 
 #### E tudo aqui eu já me envolvi...👨🏽‍💻 
