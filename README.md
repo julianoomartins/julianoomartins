@@ -15,10 +15,10 @@
  &nbsp;
  
  ---
- 
+
  <p align="center">
   
- <img src="https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" width="30px">Coisas para saber sobre a minha pessoinha! 
+ <img src=" https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Medal.gif" width="30px">Coisas para saber sobre a minha pessoinha! >
  
   <br>
  <a href="https://github.com/julianoomartins">
@@ -59,8 +59,8 @@
  </p>
  
    ---
-
-#### Atualmente eu estou... 
+   
+<img src="https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" width="30px"> Coisas que você deve saber que estou fazendo! >
 
 - Melhorando minhas habilidades no PHP. 
 - Estudando Sistemas de Informação.
