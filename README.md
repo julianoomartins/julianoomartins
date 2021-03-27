@@ -25,7 +25,7 @@
 
    
    <a href="https://github.com/julianoomartins">
-  <img align="right" style="margin-left: 76px;" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianoomartins&layout=compact" />
+  <img align="center" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianoomartins&layout=compact" />
 </a>
 
   &nbsp;
