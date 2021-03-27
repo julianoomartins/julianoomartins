@@ -34,7 +34,7 @@
 
   &nbsp;
 
-#### E tudo aqui eu já me envolvi... 
+#### E tudo aqui eu já me envolvi... 👨🏽‍💻 
 
 <br>
 
