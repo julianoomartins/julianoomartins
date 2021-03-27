@@ -36,7 +36,7 @@
   
  </p>
  
-  &nbsp;   &nbsp;   &nbsp;    
+  &nbsp;   &nbsp;    
 
 #### Atualmente eu estou... 
 
