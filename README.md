@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Quadrified/Quadrified/master/assets/wave.gif" width="30px">
+  
   <br><br>
   <samp>
-    E aí? Me chamo Juliano Martins :wave:
+    E aí? Me chamo Juliano Martins <img src="https://raw.githubusercontent.com/Quadrified/Quadrified/master/assets/wave.gif" width="30px">
     <br><br>
     Apaixonado por desenvolvimento :globe_with_meridians: Web!
     <br><br>
