@@ -16,10 +16,10 @@
 
  <b> Coisas para saber sobre a minha pessoinha! </b> 
   
-[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=julianoomartins&hide=prs&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=julianoomartins&theme=default&hide=prs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <img align="right" width="25%"  style=" margin-right: 50px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />  &nbsp; 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianoomartins&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianoomartins&theme=default)
 
 ---
 
