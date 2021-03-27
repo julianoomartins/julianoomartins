@@ -18,9 +18,13 @@
   
 [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=julianoomartins&hide=prs&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
+<img align="right" width="25%"  style=" margin-right: 50px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />  &nbsp; 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianoomartins&theme=radical)
+
+
 ---
 
-### - Coisinhas que já coloquei a mão:
+### - As paixões...
 
 <p align="center">
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
@@ -32,10 +36,8 @@
   
   &nbsp; 
   
-### - Tudo que já vi aqui no Github:
 
-<img align="right" width="25%"  style=" margin-right: 50px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />  &nbsp; 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianoomartins&theme=radical)
+
 
 ---
 
