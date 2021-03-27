@@ -30,14 +30,13 @@
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
   
+   &nbsp; 
+  
  </p>
  
-  &nbsp;   &nbsp;   &nbsp;   
+  &nbsp;   &nbsp;   &nbsp;    
 
-
- 
-
-#### - Atualmente eu estou... 
+#### Atualmente eu estou... 
 
 - Melhorando minhas habilidades no PHP. 
 - Estudando Sistemas de Informação.
@@ -56,7 +55,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/julianoomartins/"><img src="https://github.com/Quadrified/Quadrified/raw/master/assets/social_media_svgs/linkedin-round.svg" width="30px" alt="Instagram"></a> &nbsp; &nbsp;
-  <a href="https://www.instagram.com/julianoomartins/"><img src="https://github.com/Quadrified/Quadrified/raw/master/assets/social_media_svgs/instagram-round.svg" width="30px" alt="Facebook"></a> &nbsp; &nbsp; 
+  <a href="https://www.instagram.com/julianoomartins/"><img src="https://github.com/Quadrified/Quadrified/raw/master/assets/social_media_svgs/instagram-round.svg" width="30px" alt="Facebook"></a> &nbsp;
 </p>
 
 <br>
