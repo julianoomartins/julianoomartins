@@ -27,8 +27,7 @@
 <p align="center">
 
  Html, CSS, Javascript, Php, Java, Vue.js, Laravel, Jquery...
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianoomartins&langs_count=8)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianoomartins)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
