@@ -23,7 +23,7 @@
 ### - Tudo o que eu ja vi, estou vendo e estarei vendo:
 
 <p align="center">
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" width="30px"
+[![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/Quananhle/OOP-JAVA-and-Android-App-Developer)](https://github.com/Quananhle/OOP-JAVA-and-Android-App-Developer) 
  
  
 ---
