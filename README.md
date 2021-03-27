@@ -19,7 +19,12 @@
   
   <img align="left" width="500px" src="https://github-readme-stats.vercel.app/api?username=julianoomartins&theme=default&hide=prs&show_icons=true)" /> 
 
- &nbsp;  &nbsp;   &nbsp;  
+ &nbsp;
+ 
+  <a href="https://github.com/julianoomartins">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianoomartins&layout=compact" />
+  
+   &nbsp;  &nbsp;   &nbsp; 
 
 #### - E tudo isto eu já me envolvi... 
 
@@ -30,6 +35,7 @@
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Java 8-06305b?style=flat&logo=java&logoColor=white">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/-Microsoft%20Excel-026f39?style=flat&logo=microsoft%20excel">
@@ -37,6 +43,10 @@
  >> Logo outras coisas serão atualizadas aqui :grin:
   
    &nbsp; 
+   
+   <a href="https://github.com/julianoomartins">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianoomartins&layout=compact" />
+</a>
   
  </p>
  
