@@ -23,7 +23,8 @@
   <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=julianoomartins&theme=default&hide=prs&show_icons=true)" /> 
   </a>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianoomartins&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ <a href="https://github.com/julianoomartins"> 
+ <img align="left" width="50%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=julianoomartins&layout=compact  /> 
    
 </a>
 
