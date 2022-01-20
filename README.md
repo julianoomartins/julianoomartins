@@ -48,7 +48,9 @@
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/-Microsoft%20Excel-026f39?style=flat&logo=microsoft%20excel">
 <img src="https://img.shields.io/badge/-Composer-lightgrey">
-  <br>
+  
+ &nbsp;
+  
  > Logo outras coisas serão atualizadas aqui :grin:
   
    &nbsp; 
