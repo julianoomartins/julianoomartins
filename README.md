@@ -4,7 +4,7 @@
   <samp>
     E aí? Me chamo Juliano Martins <img src="https://raw.githubusercontent.com/Quadrified/Quadrified/master/assets/wave.gif" width="30px">
     <br><br>
-    Apaixonado por desenvolvimento :globe_with_meridians: Web!
+    Apaixonado por desenvolvimento Web! :globe_with_meridians: 
     <br><br>
     Acredito que café, vontade e mais vontade podem resolver qualquer problema no mundo! :grin:
     <br><br>
