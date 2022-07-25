@@ -48,6 +48,7 @@
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/-Microsoft%20Excel-026f39?style=flat&logo=microsoft%20excel">
 <img src="https://img.shields.io/badge/-Composer-lightgrey">
+<img src="https://img.shields.io/badge/-Python-9cf">
   
  &nbsp;
   
@@ -63,11 +64,11 @@
    
 <img src="https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" width="30px"> Coisas que você deve saber que estou fazendo!
 
-- Melhorando minhas habilidades no PHP. 
+- Melhorando minhas habilidades no PHP e Python nos tempos livres. 
 - Graduando em Ciência da Computação.
-- Trabalhando com o Power BI.
-- Adicionando a skill de banco de dados.
-- Me apaixonando por java...Mas não sei se é amor ou paixão...kkk
+- Trabalhando com o Power BI e algumas coisinhas em Python.
+- Adicionando a skill de banco de dados, saindo do select.
+- Um caso de amor e ódio com o Java...kkk
 
   &nbsp;   &nbsp; 
   
