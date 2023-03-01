@@ -51,7 +51,7 @@
   
  &nbsp;
   
- > Logo outras coisas serão atualizadas aqui :grin:
+ > Daqui a pouco outras coisas serão atualizadas aqui :grin:
   
    &nbsp; 
 
